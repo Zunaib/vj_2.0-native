@@ -1,0 +1,3 @@
+rootProject.name = 'vj2native'
+
+include ':app'
