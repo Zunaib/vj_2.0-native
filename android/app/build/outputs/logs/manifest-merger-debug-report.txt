@@ -7,6 +7,7 @@ INJECTED from C:\MERN\Projects\Vogue Junction\vj_2.0-native\android\app\src\main
 MERGED from C:\MERN\Projects\Vogue Junction\vj_2.0-native\android\app\src\main\AndroidManifest.xml:1:1-26:12
 MERGED from [:react-native-navigation] C:\MERN\Projects\Vogue Junction\vj_2.0-native\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative57_5Debug\AndroidManifest.xml:2:1-17:12
 MERGED from [:react-native-vector-icons] C:\MERN\Projects\Vogue Junction\vj_2.0-native\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] C:\MERN\Projects\Vogue Junction\vj_2.0-native\node_modules\react-native-video\android-exoplayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\fde3e960ef268270f358587a816c73af\AndroidManifest.xml:2:1-13:12
 MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.4.9.aar\6e2dbf497b4292ea527bd65d710336c9\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f4e2f3bc2f45a485a6a6564a48ef65a0\AndroidManifest.xml:17:1-24:12
@@ -19,9 +20,9 @@ MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\zunai\.gradle\
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\982725e721b9905d6b6c6662f2a6b761\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\12b702cbb57d619863da2ea43a96f545\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e79d4d44df1527127f80b6a5f92704c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9e43d5a9e4a8114b4d20fbd1f915e08a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7bec103ec2651ca34bc1960b3bc19497\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8448ae8254266a1da30a797167bfd4e1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9e43d5a9e4a8114b4d20fbd1f915e08a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\283ea8504a12915aa72af59757309cb3\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7bcf865a34f62054c5a0227ad40d4b9c\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\30c160e0fedce7da1e2f7a4b31049ff9\AndroidManifest.xml:17:1-22:12
@@ -32,12 +33,19 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zunai\.gra
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\101ec90a99f38f7a6dbd1bebf0dc7201\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ccb0b4a97b7875dcf4aadaa89afec18a\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\944e4de673f0ad267c8c168fe230e498\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\extension-okhttp-2.9.3.aar\fd47d9c507d179d66269b63a3de7b601\AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\99cbe375431099ac8b234e1bd275f916\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\16f482312b79fccf2edc0a073cf7dbef\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d9cf9ad517df0c152287462db50e1abf\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6b43a8e897ec684458374c4948345ef9\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\08487bc6a1080a2c20aacdb15117e484\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\66a6c7b8134c825a8723ad5b43a72872\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-2.9.3.aar\eb7f3fd9f9eff8a1dc93da65f1e4e06e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.9.3.aar\752464112a0af853b386cd917a59abb8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.9.3.aar\057cc8a05644b8c73fb6ab4088cd8d5e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.9.3.aar\e1856c6ee1c903e54f407980f1058d91\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.3.aar\8aa91324a1584aee7a8264cfd9b9748d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.3.aar\f262cbdc673188c5d699d075d28e005a\AndroidManifest.xml:17:1-26:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d4cf1651db5c3a019e0a895ea488c02e\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b8bda98847946d5ba75715b9cb7673c9\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\73204cc4f2906c819838922c356b4830\AndroidManifest.xml:17:1-22:12
@@ -156,6 +164,8 @@ MERGED from [:react-native-navigation] C:\MERN\Projects\Vogue Junction\vj_2.0-na
 MERGED from [:react-native-navigation] C:\MERN\Projects\Vogue Junction\vj_2.0-native\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative57_5Debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] C:\MERN\Projects\Vogue Junction\vj_2.0-native\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] C:\MERN\Projects\Vogue Junction\vj_2.0-native\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] C:\MERN\Projects\Vogue Junction\vj_2.0-native\node_modules\react-native-video\android-exoplayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] C:\MERN\Projects\Vogue Junction\vj_2.0-native\node_modules\react-native-video\android-exoplayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\fde3e960ef268270f358587a816c73af\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\fde3e960ef268270f358587a816c73af\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.4.9.aar\6e2dbf497b4292ea527bd65d710336c9\AndroidManifest.xml:7:5-9:41
@@ -180,12 +190,12 @@ MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zunai\.grad
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\12b702cbb57d619863da2ea43a96f545\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e79d4d44df1527127f80b6a5f92704c9\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\e79d4d44df1527127f80b6a5f92704c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9e43d5a9e4a8114b4d20fbd1f915e08a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9e43d5a9e4a8114b4d20fbd1f915e08a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7bec103ec2651ca34bc1960b3bc19497\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7bec103ec2651ca34bc1960b3bc19497\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8448ae8254266a1da30a797167bfd4e1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8448ae8254266a1da30a797167bfd4e1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9e43d5a9e4a8114b4d20fbd1f915e08a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9e43d5a9e4a8114b4d20fbd1f915e08a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\283ea8504a12915aa72af59757309cb3\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\283ea8504a12915aa72af59757309cb3\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7bcf865a34f62054c5a0227ad40d4b9c\AndroidManifest.xml:20:5-44
@@ -206,6 +216,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zunai\.gra
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ccb0b4a97b7875dcf4aadaa89afec18a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\944e4de673f0ad267c8c168fe230e498\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\944e4de673f0ad267c8c168fe230e498\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\extension-okhttp-2.9.3.aar\fd47d9c507d179d66269b63a3de7b601\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\extension-okhttp-2.9.3.aar\fd47d9c507d179d66269b63a3de7b601\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\99cbe375431099ac8b234e1bd275f916\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\99cbe375431099ac8b234e1bd275f916\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\16f482312b79fccf2edc0a073cf7dbef\AndroidManifest.xml:20:5-44
@@ -218,6 +230,18 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zunai\.gradle\cach
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\08487bc6a1080a2c20aacdb15117e484\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\66a6c7b8134c825a8723ad5b43a72872\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\66a6c7b8134c825a8723ad5b43a72872\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-2.9.3.aar\eb7f3fd9f9eff8a1dc93da65f1e4e06e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-2.9.3.aar\eb7f3fd9f9eff8a1dc93da65f1e4e06e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.9.3.aar\752464112a0af853b386cd917a59abb8\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.9.3.aar\752464112a0af853b386cd917a59abb8\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.9.3.aar\057cc8a05644b8c73fb6ab4088cd8d5e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.9.3.aar\057cc8a05644b8c73fb6ab4088cd8d5e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.9.3.aar\e1856c6ee1c903e54f407980f1058d91\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.9.3.aar\e1856c6ee1c903e54f407980f1058d91\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.3.aar\8aa91324a1584aee7a8264cfd9b9748d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.9.3.aar\8aa91324a1584aee7a8264cfd9b9748d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.3.aar\f262cbdc673188c5d699d075d28e005a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.3.aar\f262cbdc673188c5d699d075d28e005a\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d4cf1651db5c3a019e0a895ea488c02e\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d4cf1651db5c3a019e0a895ea488c02e\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b8bda98847946d5ba75715b9cb7673c9\AndroidManifest.xml:20:5-44
@@ -254,3 +278,7 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from C:\MERN\Projects\Vogue Junction\vj_2.0-native\android\app\src\debug\AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from C:\MERN\Projects\Vogue Junction\vj_2.0-native\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.3.aar\f262cbdc673188c5d699d075d28e005a\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.3] C:\Users\zunai\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.9.3.aar\f262cbdc673188c5d699d075d28e005a\AndroidManifest.xml:24:22-76

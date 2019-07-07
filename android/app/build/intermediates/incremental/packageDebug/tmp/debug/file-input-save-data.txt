@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Jun 14 15:59:15 PKT 2019
+#Sat Jul 06 23:22:11 PKT 2019
 56.path=fonts/Feather.ttf
 5.base=C\:\\MERN\\Projects\\Vogue Junction\\vj_2.0-native\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 42.base=C\:\\MERN\\Projects\\Vogue Junction\\vj_2.0-native\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
